@@ -16,10 +16,3 @@ Currently, I'm working as a Solutions Engineer at Mysten Labs, building PoCs and
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tzal3x&show_icons=true)
-
-## 📫 Let's Connect
-
-- LinkedIn: [Alexandros Tzimas](https://www.linkedin.com/in/alexandros-tzimas-247b0a15a/)
-- Twitter: [@tzimas_alex](https://twitter.com/tzimas_alex)
-
-Feel free to reach out! 😊
