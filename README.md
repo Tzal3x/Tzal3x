@@ -1,6 +1,6 @@
-# Your Name
+# 👋 Hello, I'm Alex
 
-👋 Hello, I'm Alex, a Full-Stack Software Engineer based in Athens, Greece. 
+I'm a Full-Stack Software Engineer based in Athens, Greece. 
 Currently, I'm working as a Solutions Engineer at Mysten Labs, building PoCs and products based on Smart Contracts on the [Sui](https://sui.io/) network.
 
 ## About Me 💻
