@@ -1,17 +1,18 @@
 # 👋 Hello, I'm Alex
 
 I'm a Full-Stack Software Engineer based in Athens, Greece. 
-Currently, I'm working as a Solutions Engineer at Mysten Labs, building PoCs and products backed by smart contracts on the [Sui](https://sui.io/) network.
+Currently, I'm working as a Solutions Engineer at Mysten Labs, 
+building producs and PoCs backed by smart contracts on the [Sui](https://sui.io/) network.
 
 ## About Me 💻
 
 - Experienced in building scalable applications.
+- Getting along with frontend💥
 - Actively contributing to the adoption of Web3 at Mysten Labs.
 
 ## 🌱 Currently Exploring 
-- Frugal frontend tech such as HTMX
-- Rust 🦀
-- Deepening my understandment of blockchain tech. 
+- Familiarizing with new system architectures.
+- Deepening my understandment of blockchain tech.
 
 ## 📈 GitHub Stats
 
