@@ -16,7 +16,7 @@ OPTIONS
      -x   Develop a robust backend.
      -r   Refactor code. 
      -t   Generate unit tests.
-     -w   Waste time on finding that shortcut. [DO NOT ABUSE]
+     -w   Waste time on finding that shortcut.
 
 INTERESTS
      blockchain(1)
