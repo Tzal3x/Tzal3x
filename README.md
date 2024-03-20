@@ -1,5 +1,5 @@
 ```
-ALEX(1)                          General Commands Manual                         ALEX(1)
+ALEX(1)                          General Commands Manual                         TZIMAS(1)
 
 NAME
      Alex - Full-Stack Software Engineer based in Athens, Greece
