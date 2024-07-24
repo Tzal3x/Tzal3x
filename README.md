@@ -1,25 +1,8 @@
-```
-ALEX(1)                          General Commands Manual                         TZIMAS(1)
-
-NAME & SPECIALTY
-     Alex - Full-Stack Software Engineer based in Athens, Greece
-
-CURRENT ROLE
-     Solutions Engineer @ Mysten Labs | Building on Sui (https://sui.io/)
-
-DESCRIPTION
-     Gets paid to play with code – a fun gig.
-
-OPTIONS
-     -d   Design a scalable system architecture. 
-     -f   Build a frugal frontend.
-     -b   Develop a robust backend.
-     -w   Waste time on finding that shortcut.
-
-BUGS
-     - Caffeine addict.
-     - Overly-excited by obscure technology.
-
-ENVIRONMENT
-     Operating best in a startup. 
-```
+<p align="center">
+  <br>
+  <samp>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tzal3x.github.io">Alex</a></b>.
+    <br>I'm a Software Engineer based in Athens, Greece.<br>
+    <br>Currently I'm building dApps on <a href="https://sui.io/">Sui</a> as a Solutions Engineer @ Mysten Labs.<br>
+  </samp>
+</p>
